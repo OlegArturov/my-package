@@ -1,0 +1,13 @@
+{
+  "name": "hillel-hw1-custom-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlegArturov/my-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
